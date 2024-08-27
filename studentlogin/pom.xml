@@ -11,7 +11,7 @@
 	<groupId>com.glab30982</groupId>
 	<artifactId>studentlogin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>studentlogin</name>
+	<name>student login</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
